@@ -1,32 +1,35 @@
-[![MasterHead](https://www.braintechnosys.com/blog/wp-content/uploads/2023/01/full-stack.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm TEJASRITH TIRUMALASETTY</h1>
 <h3 align="center">A Machine Learning Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2100030551&label=Profile%20views&color=0e75b6&style=flat" alt="2100030551" /> </p>
-
-- 🌱 I’m currently learning **Django, IDE, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Low-Level Manipulation**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tirumalasetty tejasrith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tirumalasetty tejasrith" height="30" width="40" /></a>
+<p align="center">
+    <img src="https://github.com/2100030551/2100030551/assets/112796722/3090f78e-c37b-433f-ad4f-5e3ae98cb291" alt="Tejasrith Tirumalasetty" width="750">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/machine-learning/machine-learning-original.svg" alt="machine-learning" width="40" height="40"/> </a>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=2100030551&label=Profile%20views&color=0e75b6&style=flat" alt="2100030551">
+</p>
 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Intermediate-Level Manipulation**
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/natural-language-processing/natural-language-processing-original.svg" alt="nlp" width="40" height="40"/> </a>
+### Connect with me:
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/tirumalasetty-tejasrith-89873224a/)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/deep-learning/deep-learning-original.svg" alt="dl" width="40" height="40"/> </a>
+### Languages and Tools:
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/> </a>
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="border-radius: 50%;">](https://www.python.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border-radius: 50%;">](https://www.java.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border-radius: 50%;">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="border-radius: 50%;">](https://www.tensorflow.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="Red Hat" width="40" height="40" style="border-radius: 50%;">](https://www.redhat.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2100030551&show_icons=true&locale=en&layout=compact" alt="2100030551" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2100030551&show_icons=true&locale=en" alt="2100030551" /></p>
+## Skills Proficiency
+- Machine Learning (ML): ![80%](https://progress-bar.dev/80)
+- Deep Learning (DL): ![80%](https://progress-bar.dev/80)
+- Natural Language Processing (NLP): ![80%](https://progress-bar.dev/80)
+- OpenCV2 (Computer Vision): ![80%](https://progress-bar.dev/80)
+- LLM (Large Language Models): ![70%](https://progress-bar.dev/70)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2100030551&" alt="2100030551" /></p>
+## Certificates
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40">](https://www.tensorflow.org)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="Red Hat" width="40" height="40">](https://www.redhat.com)
