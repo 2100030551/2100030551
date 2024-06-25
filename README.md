@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=2100030551&label=Profile%20views&color=0e75b6&style=flat" alt="2100030551">
 </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Intermediate-Level Manipulation**
+- 🌱 I’m currently working **Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Intermediate-Level Manipulation** hands-on projects
 
 ### Connect with me:
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/tirumalasetty-tejasrith-89873224a/)
