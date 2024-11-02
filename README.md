@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=2100030551&label=Profile%20views&color=0e75b6&style=flat" alt="2100030551">
 </p>
 
-- 🌱 I’m currently working **Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Intermediate-Level Manipulation** hands-on projects
+- 🌱 I’m currently working **Machine Learning, Deep Learning,Large Language Models Intermediate-Level Manipulation** hands-on projects
 
 ### Connect with me:
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/tirumalasetty-tejasrith-89873224a/)
@@ -17,8 +17,6 @@
 ### Languages and Tools:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="border-radius: 50%;">](https://www.python.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border-radius: 50%;">](https://www.java.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border-radius: 50%;">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" style="border-radius: 50%;">](https://www.tensorflow.org)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="Red Hat" width="40" height="40" style="border-radius: 50%;">](https://www.redhat.com)
 
@@ -26,8 +24,6 @@
 ## Skills Proficiency
 - Machine Learning (ML): ![80%](https://progress-bar.dev/80)
 - Deep Learning (DL): ![80%](https://progress-bar.dev/80)
-- Natural Language Processing (NLP): ![80%](https://progress-bar.dev/80)
-- OpenCV2 (Computer Vision): ![80%](https://progress-bar.dev/80)
 - LLM (Large Language Models): ![70%](https://progress-bar.dev/70)
 
 ## Certificates
